@@ -1,0 +1,7 @@
+C:\Users\Administrator\Downloads\MyWebApp\publish\MyWebApp.exe
+C:\Users\Administrator\Downloads\MyWebApp\publish\appsettings.Development.json
+C:\Users\Administrator\Downloads\MyWebApp\publish\appsettings.json
+C:\Users\Administrator\Downloads\MyWebApp\publish\MyWebApp.dll
+C:\Users\Administrator\Downloads\MyWebApp\publish\MyWebApp.deps.json
+C:\Users\Administrator\Downloads\MyWebApp\publish\MyWebApp.runtimeconfig.json
+C:\Users\Administrator\Downloads\MyWebApp\publish\MyWebApp.pdb
